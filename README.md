@@ -1,5 +1,5 @@
 ## -------------------------
-## All parts in core file
+## All parts in core folder
 ## -------------------------
 
 
