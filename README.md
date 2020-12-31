@@ -1,3 +1,9 @@
+## -------------------------
+## All parts in core file
+## -------------------------
+
+
+
 [![Actions Status](https://github.com/fritzing/fritzing-parts/workflows/check-all-parts/badge.svg?branch=master)](https://github.com/fritzing/fritzing-parts/actions)
 *master*
 [![Actions Status](https://github.com/fritzing/fritzing-parts/workflows/check-all-parts/badge.svg?branch=develop)](https://github.com/fritzing/fritzing-parts/actions)
